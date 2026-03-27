@@ -1,0 +1,1 @@
+-- Scaffold for the Notification Preferences sample repo.
